@@ -1,6 +1,6 @@
-# New Project
+# snowpack-react-router
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+This template include Snowpack & React with react-router-dom as routing and Yarn 2.
 
 ## Available Scripts
 
